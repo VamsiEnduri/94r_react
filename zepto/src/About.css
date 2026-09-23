@@ -1,0 +1,18 @@
+
+#about {
+    padding: 40px;
+    text-align: center;
+    background-color: lightgray;
+    color: black;
+}
+
+#about h2 {
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
