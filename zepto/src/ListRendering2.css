@@ -1,0 +1,23 @@
+#card_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+#card{
+    /* background-color: lightcoral; */
+    width: 250px;
+    height: 400px;
+}
+#card > img {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8%;
+    width: 100%;
+    height: 70%;
+}
