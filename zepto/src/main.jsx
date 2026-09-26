@@ -4,7 +4,8 @@ import './index.css'
 // import App from './App.jsx' 
 // import App2 from './App2.jsx'
 // import AppListRendering from "./AppListRendering"
-import UseStateApp from "./UseStateApp.jsx"
+// import UseStateApp from "./UseStateApp.jsx"
+import ApiCallingApp from './apiCallingApp.jsx'
 // import 
 
 createRoot(document.getElementById('root')).render(
@@ -13,7 +14,8 @@ createRoot(document.getElementById('root')).render(
     {/* <App2></App2>  */}
     {/* <AppListRendering />
      */}
-     <UseStateApp />
+     {/* <UseStateApp /> */}
+     <ApiCallingApp/>
     {/* use / access */}
   </StrictMode>,
 )
